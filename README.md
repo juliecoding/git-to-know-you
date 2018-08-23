@@ -1,19 +1,14 @@
 # git-to-know-you
-A collaborative document introducing some git basics
+A COLLABORATIVE DOCUMENT INTRODUCING SOME GIT BASICS
 
-1. What's the last thing that pleasaintly surprised you at work?
+1. WHAT'S THE LAST THING THAT PLEASAINTLY SURPRISED YOU AT WORK?
 
+2. WHAT'S YOUR MOST AND LEAST FAVORITE PARTTS OF WORKING IN QA?
 
-2. What's your most and least favorite partts of working in QA?
+3. WHAT DOES YOUR COMPANY MAKE/DO/SELL. HOW COULD THEY DO IT BETTER.
 
+4. HOW DO YOU MEASURE SUCESS?
 
-3. What does your company make/do/sell. How could they do it better.
+5. WHAT ARE SOME OF YOUR PROFESH GOALS?
 
-
-4. How do you measure sucess?
-
-
-5. What are some of your profesh goals? 
-
-
-6. If you could instantaneously aqwire a new skill, what would it be? Why?
+6. IF YOU COULD INSTANTANEOUSLY AQWIRE A NEW SKILL, WHAT WOULD IT BE? WHY?
